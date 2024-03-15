@@ -1,0 +1,16 @@
+---
+example:
+  branch_1:
+    leaf: apple
+    colour: green
+
+  branch_2:
+    fruit: apple
+    colour: red
+
+  branch_3:
+    - there's
+    - something
+    - strange
+    - 42
+
